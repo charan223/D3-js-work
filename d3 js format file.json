@@ -1,0 +1,32 @@
+
+
+
+
+
+ {
+"word": "Sentence",
+
+ "children": [
+  { "name":"1", "cng": "3", "chunk_no": "1", "length_word": "6", "word": "jImUta", "morph": "iic.", "position": "0", "lemma": "jImUta"}, 
+ {"name":"6", "cng": "3", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "iic.", "position": "6", "lemma": "karin"}, 
+ {"name": "10", "cng": "31", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "nom. sg. n.", "position": "6", "lemma": "kari_1"}, 
+ {"name":"11", "cng": "3", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "iic.", "position": "6", "lemma": "kari_1"}, 
+ {"name":"8","cng": "31", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "nom. sg. n.", "position": "6", "lemma": "karin"}, 
+  {"name":"7", "cng": "71", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "acc. sg. n.", "position": "6", "lemma": "karin"}, 
+ {"name":"9", "cng": "71", "chunk_no": "1", "length_word": "4", "word": "kari", "morph": "acc. sg. n.", "position": "6", "lemma": "kari_1"}, 
+ {"name":"14", "cng": "30", "chunk_no": "1", "length_word": "6", "word": "matsyA", "morph": "nom. sg. f.", "position": "10", "lemma": "matsya"},
+  {"name":"13", "cng": "3", "chunk_no": "1", "length_word": "6", "word": "matsya", "morph": "iic.", "position": "10", "lemma": "matsya"},  
+ {"name":"19", "cng": "31", "chunk_no": "1", "length_word": "3", "word": "ahi", "morph": "nom. sg. n.", "position": "15", "lemma": "ahi"}, 
+ {"name":"17", "cng": "3", "chunk_no": "1", "length_word": "3", "word": "ahi", "morph": "iic.", "position": "15", "lemma": "ahi"},
+  {"name":"18", "cng": "71", "chunk_no": "1", "length_word": "3", "word": "ahi", "morph": "acc. sg. n.", "position": "15", "lemma": "ahi"}, 
+ {"name":"2", "cng": "2", "chunk_no": "1", "length_word": "2", "word": "hi", "morph": "part.", "position": "16", "lemma": "hi_1"}, 
+ {"name":"16", "cng": "3", "chunk_no": "1", "length_word": "5", "word": "vaMSa", "morph": "iic.", "position": "18", "lemma": "vaMSa"}, 
+ {"name":"12", "cng": "3", "chunk_no": "1", "length_word": "6", "word": "SaNKa", "morph": "iic.", "position": "23", "lemma": "SaNKa"}, 
+ {"name":"15", "cng": "3", "chunk_no": "1", "length_word": "6", "word": "varAha", "morph": "iic.", "position": "28", "lemma": "varAha"}, 
+ {"name":"4", "cng": "80", "chunk_no": "1", "length_word": "3", "word": "jAH", "morph": "acc. pl. f.", "position": "34", "lemma": "ja"}, 
+ {"name":"5", "cng": "40", "chunk_no": "1", "length_word": "3", "word": "jAH", "morph": "nom. pl. f.", "position": "34", "lemma": "ja"}, 
+ {"name":"3", "cng": "39", "chunk_no": "1", "length_word": "3", "word": "jAH", "morph": "nom. pl. m.", "position": "34", "lemma": "ja"} 
+]
+ }
+
+ 
